@@ -1,0 +1,15 @@
+body{
+    color:dodgerblue;
+    background-color: rgb(42, 0, 79);
+    font-family:"LXGW WenKai Mono TC", monospace;
+}
+body{
+     font-weight:bold;
+     font-style: italic;
+     font-size: 16px;
+
+}
+p{
+    font-weight: lighter;
+
+}
