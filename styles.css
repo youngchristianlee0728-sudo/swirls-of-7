@@ -1,6 +1,6 @@
 body{
     color:dodgerblue;
-    background-color: rgb(42, 0, 79);
+    background-color: rgb(0, 32, 105);
     font-family:"LXGW WenKai Mono TC", monospace;
     text-align: center;
 }
@@ -14,5 +14,18 @@ body{
 p{
     font-weight: lighter;
     text-align: center;
+}
 
+.dude{
+    color: rgb(211, 141, 0);
+}
+
+.dude:hover{
+    transform: scale(1.5);
+    transition-duration: 2s;
+    
+}
+.kuh:hover{
+    transform: scale(1.25);
+    transition-duration: 2s;
 }
